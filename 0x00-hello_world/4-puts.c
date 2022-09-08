@@ -1,9 +1,7 @@
-#include<stdio.h>
-int main()
+#include <stdio.h>
+
+int main(void)
 {
-		//string initialisation
-		    char Mystr1[10] = "Programming is like building a multilingual puzzle";	            
-	                puts(Mystr1)
-	     			return 0
-}
-	
+		puts("\"Programming is like building a multilingual puzzle");
+			return (0);
+}	
